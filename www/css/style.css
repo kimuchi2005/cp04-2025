@@ -8,6 +8,8 @@
         font-family:Times;
         border-radius: 20px;
     }
+
+   
     #minuteStr {
         color: #ff0000;
         font-size: 20px;
@@ -50,6 +52,7 @@
     }
     
     #btnA {
+        background-color: yellow;
         
         font-size: 20px;
         position:absolute; top:380px; left:2%; width:43%; height:60px; 
